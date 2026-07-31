@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime databases
+*.db
+*.sqlite
+*.sqlite3
+
+# NeoX local settings
+*_settings.json
+kouncil_settings.json
+kouncil_stats.db
+neox_chat_history.db
+
+# Secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build / distribution
+build/
+dist/
+*.spec
